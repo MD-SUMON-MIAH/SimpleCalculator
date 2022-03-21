@@ -1,0 +1,27 @@
+.Heading {
+    background-color: beige;
+    text-align: center;
+    color: green;
+    border: 100px;
+    border-color: bisque;
+    text-decoration: dotted;
+}
+
+.No22 {
+    margin-left: 20px;
+}
+
+#btn {
+    size-adjust: 20px;
+    margin-left: 50px;
+    text-align: center;
+    text-shadow: 5px;
+    background-color: rgb(200, 233, 200);
+}
+
+.s {
+    background-color: whitesmoke;
+    color: blueviolet;
+    margin-left: 100px;
+    text-size-adjust: 200px;
+}
